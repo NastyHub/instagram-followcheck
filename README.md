@@ -1,2 +1,2 @@
 # instagram followcheck
- personal project using selenium
+ personal project using module Instaloader
